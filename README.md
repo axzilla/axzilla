@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Axel
 
-<!--
-**axzilla/axzilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working full-time on open source developer tools:
 
-Here are some ideas to get you started:
+🎨 **[templui](https://github.com/axzilla/templui)** • UI components for Go & templ (260+ stars)  
+🚀 **[deeploy](https://github.com/axzilla/deeploy)** • Self-hosted deployment platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+- Expanding the component library 
+- Building a simple deployment solution
+- Supporting the growing community
+
+Your sponsorship helps keep these projects well-maintained and free:  
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/axzilla?style=social)](https://github.com/sponsors/axzilla)
+
+𝕏 [@_axzilla](https://x.com/_axzilla) for updates & releases
