@@ -14,4 +14,4 @@ Currently focusing on:
 Your sponsorship helps keep these projects well-maintained and free:  
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/axzilla?style=social)](https://github.com/sponsors/axzilla)
 
-Follow me on 𝕏 [@_axzilla](https://x.com/_axzilla) for updates & releases
+[Follow me on 𝕏 for updates & releases.](https://x.com/_axzilla)
