@@ -2,8 +2,8 @@
 
 I'm working full-time on open source developer tools:
 
-🎨 **[templui](https://github.com/axzilla/templui)** • UI components for Go & templ (260+ stars)  
-🚀 **[deeploy](https://github.com/axzilla/deeploy)** • Self-hosted deployment platform
+🎨 **[templui](https://github.com/axzilla/templui)** • Modern UI Components for Go & Templ
+🚀 **[deeploy](https://github.com/axzilla/deeploy)** • Modern Deployment. Terminal First.
 
 Currently focusing on:
 - Expanding the component library 
